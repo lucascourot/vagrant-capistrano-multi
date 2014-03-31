@@ -1,0 +1,23 @@
+# Debian Wheezy
+
+## What's inside
+
+ - PHP 5.5.*
+ - Composer
+
+## Installation
+
+Download Vagrant http://www.vagrantup.com/
+
+### Download the box and run the VM
+
+    vagrant up
+
+### Acces the VM using SSH
+
+    vagrant ssh
+
+# Documentation
+
+http://docs.vagrantup.com/
+
