@@ -1,9 +1,4 @@
-# Debian Wheezy
-
-## What's inside
-
- - PHP 5.5.*
- - Composer
+# Deploy with Capistrano to a multi-machine Vagrant environment
 
 ## Installation
 
@@ -28,3 +23,4 @@ Download Vagrant http://www.vagrantup.com/
 # Documentation
 
 http://docs.vagrantup.com/
+https://github.com/capistrano/capistrano/blob/master/README.md
