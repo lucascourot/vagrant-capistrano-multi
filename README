@@ -16,9 +16,14 @@ Download Vagrant http://www.vagrantup.com/
 ### Acces the VM using SSH
 
     vagrant ssh vm1
-or
+
     vagrant ssh-config vm1 >> ~/.ssh/config
     ssh vm1
+
+# Capistrano usage
+
+    $ bundle exec cap install
+    $ bundle exec cap production deploy
 
 # Documentation
 
